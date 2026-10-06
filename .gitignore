@@ -1,0 +1,16 @@
+# FreeCAD backups and lock files
+*.FCBak
+*.FCStd1
+*.FCStd2
+.~lock.*#
+
+# Desktop environment / OS cruft
+.directory
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / temp files
+*~
+*.swp
+*.tmp
